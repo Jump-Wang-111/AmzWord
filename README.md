@@ -46,7 +46,7 @@ follina：
 
 4. Use any social engineering method to send it to the target. As long as the victim opens word, tar.exe will be automatically downloaded and executed.
 
-5. The attacker runs gdog locally and sends commands to control the target machine. For usage, see [follina](https://github.com/Noxtal/follina)
+5. The attacker runs gdog locally and sends commands to control the target machine. For usage, see [gdog](https://github.com/maldevel/gdog)
 
 # Remark
 
